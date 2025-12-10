@@ -28,8 +28,7 @@ The project uses two main CSV files:
 
 1. **Orders.csv**  
    - Order ID  
-   - Order Date  
-   - Ship Date  
+   - Order Date   
    - Customer & Region details  
    - Order Status  
    - Payment info (COD/Online etc.)  
